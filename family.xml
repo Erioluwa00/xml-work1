@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <family hobby="Dancing", age="20", gender="female" position="daughter">Erioluwa</family>
+    <family hobby="singing", age="10", gender="female" position="grand-daughter">Ireoluwa</family>
+    <family hobby="eating", age="1", gender="male" position="pet">Bella</family>
+    <family hobby="working", age="40", gender="male" position="son">Dotun</family>
+    <family hobby="cooking", age="50", gender="female" position="mother">Mrs Seun</family>
+    <family hobby="Reading", age="55", gender="male" position="father">Ireoluwa</family>
+
+</class>
